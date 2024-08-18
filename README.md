@@ -1,3 +1,28 @@
+# Comps application
+This project contains a React application that demonstates how to create fundamental components of a frontend application in React, such as:
+
+- Accordion
+- Button
+- Dropdown
+- Modal
+- Table
+- SortableTable
+
+The component `SortableTable` helps you understand how to  implement sortable columns in a table.
+
+In this project we make use of the hooks `useState`, `useContext`, `useEffects`, and it employs a basic custom navigation system.
+
+To handle navigation, the components `Link`, `Route`, and `NavigationContext` have been created. There is also a lateral `Sidebar` component that allows you to move between pages.
+
+
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/accordion.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/buttons.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/counter.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/dropdown.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/modal_1.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/modal_2.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/table.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Acknowledgments
+This code is adapted from the course [Modern React with Redux](https://www.udemy.com/course/react-redux) by Stephen Grider, with some modifications.
