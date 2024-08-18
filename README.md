@@ -14,14 +14,13 @@ In this project we make use of the hooks `useState`, `useContext`, `useEffects`,
 
 To handle navigation, the components `Link`, `Route`, and `NavigationContext` have been created. There is also a lateral `Sidebar` component that allows you to move between pages.
 
-
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/dropdown.png?raw=true)
 ![alt text](https://github.com/RosarioB/comps/blob/main/github_images/accordion.png?raw=true)
 ![alt text](https://github.com/RosarioB/comps/blob/main/github_images/buttons.png?raw=true)
-![alt text](https://github.com/RosarioB/comps/blob/main/github_images/counter.png?raw=true)
-![alt text](https://github.com/RosarioB/comps/blob/main/github_images/dropdown.png?raw=true)
 ![alt text](https://github.com/RosarioB/comps/blob/main/github_images/modal_1.png?raw=true)
 ![alt text](https://github.com/RosarioB/comps/blob/main/github_images/modal_2.png?raw=true)
 ![alt text](https://github.com/RosarioB/comps/blob/main/github_images/table.png?raw=true)
+![alt text](https://github.com/RosarioB/comps/blob/main/github_images/counter.png?raw=true)
 
 # Getting Started with Create React App
 
